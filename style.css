@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+*
+.Firstcontainer{
+    background-color: black;
+    width: 100vw;
+    height: 7vw;
+}
+.uppertext{
+    color: white;
+    display: flex;
+    margin-left: 50px;
+}
+.uppertext > p{
+    padding-left: 10px;
+}
+
+.Secondcontainer{
+    background-image: url(./caroline-lm-QA9fRIi6sFw-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50px;
+}
